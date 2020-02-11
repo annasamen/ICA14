@@ -1,2 +1,3 @@
 file3.txt data
 changes on master
+file3.txt data
